@@ -1,3 +1,5 @@
+![work1 (4)](https://user-images.githubusercontent.com/57658483/108600947-81045700-73cc-11eb-90b1-48b9a6194132.png)
+
 PROJECT PPDB SMK WIKRAMA GARUT
 Project untuk pendaftaran siswa baru online.
 Deskripsi Project:
